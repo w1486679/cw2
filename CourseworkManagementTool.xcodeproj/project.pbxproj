@@ -14,6 +14,7 @@
 		F3CDE4511ECE040300324E7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3CDE44F1ECE040300324E7E /* Main.storyboard */; };
 		F3CDE4531ECE040400324E7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3CDE4521ECE040400324E7E /* Assets.xcassets */; };
 		F3CDE4561ECE040400324E7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3CDE4541ECE040400324E7E /* LaunchScreen.storyboard */; };
+		F3CDE45E1ECE0CF600324E7E /* AddCourseworkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CDE45D1ECE0CF600324E7E /* AddCourseworkViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F3CDE4521ECE040400324E7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3CDE4551ECE040400324E7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F3CDE4571ECE040400324E7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3CDE45D1ECE0CF600324E7E /* AddCourseworkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddCourseworkViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F3CDE44B1ECE040300324E7E /* MasterViewController.swift */,
 				F3CDE44D1ECE040300324E7E /* DetailViewController.swift */,
 				F3CDE44F1ECE040300324E7E /* Main.storyboard */,
+				F3CDE45D1ECE0CF600324E7E /* AddCourseworkViewController.swift */,
 				F3CDE4521ECE040400324E7E /* Assets.xcassets */,
 				F3CDE4541ECE040400324E7E /* LaunchScreen.storyboard */,
 				F3CDE4571ECE040400324E7E /* Info.plist */,
@@ -144,6 +147,7 @@
 			files = (
 				F3CDE44A1ECE040300324E7E /* CourseworkManagementTool.xcdatamodeld in Sources */,
 				F3CDE4471ECE040300324E7E /* AppDelegate.swift in Sources */,
+				F3CDE45E1ECE0CF600324E7E /* AddCourseworkViewController.swift in Sources */,
 				F3CDE44C1ECE040300324E7E /* MasterViewController.swift in Sources */,
 				F3CDE44E1ECE040300324E7E /* DetailViewController.swift in Sources */,
 			);
@@ -307,6 +311,7 @@
 				F3CDE45C1ECE040400324E7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
